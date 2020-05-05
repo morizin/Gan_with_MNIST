@@ -80,6 +80,3 @@ and we demonstrate in the well-tested [examples directory](https://github.com/te
 * Joel Shor, joelshor@google.com, [github](https://github.com/joel-shor)
 * Aaron Sarna, sarna@google.com, [github](https://github.com/aaronsarna)
 * Yoel Drori, dyoel@google.com, [github](https://github.com/yoeldr)
-
-## Authors
-* Joel Shor, joelshor@google.com, [github](https://github.com/joel-shor)
